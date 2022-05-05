@@ -3,10 +3,6 @@ Every work on Federated Learning Pruning
 
 ## Papers
 
-### 1. Model Aggregation
-
-Model Aggregation (or Model Fusion) refers to how to combine local models into a shared global model.  
-
 <table border=0 cellpadding=0 cellspacing=0 >
     <col width="60%" style='mso-width-source:userset;mso-width-alt:6848;width:161pt'>
 	<col width="5%" style='mso-width-source:userset;mso-width-alt:26080;width:611pt'>
