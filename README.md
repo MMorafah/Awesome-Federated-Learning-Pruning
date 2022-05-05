@@ -1,6 +1,7 @@
 # Awesome-Federated-Learning-Prunning
 Every work on Federated Learning Pruning
 
+Last Update: 05/04/2022 
 ## Papers
 
 <table border=0 cellpadding=0 cellspacing=0 >
@@ -38,3 +39,5 @@ Every work on Federated Learning Pruning
         <td class=xl6519452 align="center">arxiv 2020</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
+
+### Please feel free to reach to me if you did not find your publication on this list (mmorafah@ucsd.edu)
