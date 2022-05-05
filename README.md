@@ -39,7 +39,13 @@ Last Update: 05/04/2022
         <td class=xl6519452 align="center">arxiv 2020</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
-
+    <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-030-92307-5_50">FedPrune: Personalized and Communication-Efficient Federated Learning on Non-IID Data</a></td>
+		<td class=xl6519452 align="center">FedPrune</td>
+        <td class=xl6519452 align="center">ICONIP 2021</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	
 </table>
 
 #### Please feel free to reach to me if you did not find your publication on this list (mmorafah@ucsd.edu)
