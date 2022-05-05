@@ -18,11 +18,5 @@ Every work on Federated Learning Pruning
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9545941">Personalized Federated Learning by Structured and Unstructured Pruning under Data Heterogeneity</a></td>
 		<td class=xl6519452 align="center">Sub-FedAvg</td>
         <td class=xl6519452 align="center">ICDCS-W 2021</td>
-		<td class=xl6519452 align="center"></td>
-	</tr>
-	<tr height=19 style='height:14.15pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1905.12022.pdf">Bayesian Nonparametric Federated Learning of Neural Networks</a></td>
-		<td class=xl6519452 align="center">PFNM</td>
-        <td class=xl6519452 align="center">ICML 2019</td>
-		<td class=xl6519452 align="center"><a href="https://github.com/IBM/probabilistic-federated-neural-matching">code</a></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/MMorafah/Sub-FedAvg">code</a></td>
 	</tr>
