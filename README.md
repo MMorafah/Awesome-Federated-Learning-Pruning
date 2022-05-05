@@ -40,5 +40,6 @@ Last Update: 05/04/2022
 		<td class=xl6519452 align="center"></td>
 	</tr>
 
+</table>
 
 Please feel free to reach to me if you did not find your publication on this list (mmorafah@ucsd.edu)
