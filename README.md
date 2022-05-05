@@ -20,3 +20,21 @@ Every work on Federated Learning Pruning
         <td class=xl6519452 align="center">ICDCS-W 2021</td>
 		<td class=xl6519452 align="center"><a href="https://github.com/MMorafah/Sub-FedAvg">code</a></td>
 	</tr>
+    <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2201.11380.pdf">Model pruning enables efficient federated learning on edge devices</a></td>
+		<td class=xl6519452 align="center">PruneFL</td>
+        <td class=xl6519452 align="center">IEEE TNNLS 2022</td>
+		<td class=xl6519452 align="center"><a href="https://github.com/jiangyuang/PruneFL">code</a></td>
+	</tr>
+    <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2201.11380.pdf">Achieving Personalized Federated Learning with Sparse Local Models</a></td>
+		<td class=xl6519452 align="center">FedSpa</td>
+        <td class=xl6519452 align="center">arxiv 2022</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+    <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2201.11380.pdf">Lotteryfl: Personalized and communication-efficient federated learning with lottery ticket hypothesis on Non-IID Datasets</a></td>
+		<td class=xl6519452 align="center">Lotteryfl</td>
+        <td class=xl6519452 align="center">arxiv 2020</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
