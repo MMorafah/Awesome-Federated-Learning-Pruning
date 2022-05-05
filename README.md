@@ -1,4 +1,4 @@
-# Awesome-Federated-Learning-Prunning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Federated-Learning-Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Every work on Federated Learning Pruning
 
 <strong>Last Update: May, 5th, 2021</strong>.	
