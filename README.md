@@ -1,7 +1,10 @@
-# Awesome-Federated-Learning-Prunning
+# Awesome-Federated-Learning-Prunning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Every work on Federated Learning Pruning
 
-Last Update: 05/04/2022 
+<strong>Last Update: May, 5th, 2021</strong>.	
+
+If you did not find your publication on this list, please email me at mmorafah@ucsd.edu 
+
 ## Papers
 
 <table border=0 cellpadding=0 cellspacing=0 >
@@ -47,5 +50,3 @@ Last Update: 05/04/2022
 	</tr>
 	
 </table>
-
-#### Please feel free to reach to me if you did not find your publication on this list (mmorafah@ucsd.edu)
