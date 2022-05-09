@@ -25,7 +25,7 @@ If you did not find your publication on this list, please email me at mmorafah@u
 		<td class=xl6519452 align="center"><a href="https://github.com/MMorafah/Sub-FedAvg">code</a></td>
 	</tr>
     <tr height=19 style='height:14.15pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2201.11380.pdf">Model pruning enables efficient federated learning on edge devices</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/1909.12326">Model pruning enables efficient federated learning on edge devices</a></td>
 		<td class=xl6519452 align="center">PruneFL</td>
         <td class=xl6519452 align="center">IEEE TNNLS 2022</td>
 		<td class=xl6519452 align="center"><a href="https://github.com/jiangyuang/PruneFL">code</a></td>
