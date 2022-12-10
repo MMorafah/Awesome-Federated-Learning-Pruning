@@ -54,5 +54,17 @@ If you did not find your publication on this list, please email me at mmorafah@u
         <td class=xl6519452 align="center">arxiv 2022</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
+    <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2212.01977">Complement Sparsification: Low-Overhead Model Pruning for Federated Learning</a></td>
+		<td class=xl6519452 align="center">CS</td>
+        <td class=xl6519452 align="center">AAAI 2023</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+    <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/forum?id=YZIVv_37y2z">Efficient Federated Random Subnetwork Training</a></td>
+		<td class=xl6519452 align="center">CS</td>
+        <td class=xl6519452 align="center">FL NeurIPS-W'22</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
 	
 </table>
