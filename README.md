@@ -40,7 +40,7 @@ If you did not find your publication on this list, please email me at mmorafah@u
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2201.11380.pdf">Lotteryfl: Personalized and communication-efficient federated learning with lottery ticket hypothesis on Non-IID Datasets</a></td>
 		<td class=xl6519452 align="center">Lotteryfl</td>
         <td class=xl6519452 align="center">arxiv 2020</td>
-		<td class=xl6519452 align="center"></td>
+	    <td class=xl6519452 align="center"><a href="https://github.com/charleslipku/LotteryFL">code</a></td>
 	</tr>
     <tr height=19 style='height:14.15pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-030-92307-5_50">FedPrune: Personalized and Communication-Efficient Federated Learning on Non-IID Data</a></td>
