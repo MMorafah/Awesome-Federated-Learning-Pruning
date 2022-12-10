@@ -49,4 +49,11 @@ If you did not find your publication on this list, please email me at mmorafah@u
 		<td class=xl6519452 align="center"></td>
 	</tr>
 	
+    <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2212.01977">FedTiny: Pruned Federated Learning Towards Specialized Tiny Models</a></td>
+		<td class=xl6519452 align="center">FedTiny</td>
+        <td class=xl6519452 align="center">arxiv 2022</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
+	
 </table>
