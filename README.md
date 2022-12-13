@@ -62,7 +62,7 @@ If you did not find your publication on this list, please email me at mmorafah@u
 	</tr>
     <tr height=19 style='height:14.15pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/forum?id=YZIVv_37y2z">Efficient Federated Random Subnetwork Training</a></td>
-		<td class=xl6519452 align="center">CS</td>
+		<td class=xl6519452 align="center">FedPM</td>
         <td class=xl6519452 align="center">FL NeurIPS-W'22</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
