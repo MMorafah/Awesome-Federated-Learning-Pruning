@@ -68,7 +68,7 @@ If you did not find your publication on this list, please email me at mmorafah@u
 	</tr>
     <tr height=19 style='height:14.15pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/pdf?id=XEQSP1zL2gx">Federated Sparse Training: Lottery Aware Model Compression for Resource Constrained Edge</a></td>
-		<td class=xl6519452 align="center">\FLASH</td>
+		<td class=xl6519452 align="center">FLASH</td>
         <td class=xl6519452 align="center">FL NeurIPS-W'22</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
