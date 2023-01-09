@@ -78,5 +78,11 @@ If you did not find your publication on this list, please email me at mmorafah@u
         <td class=xl6519452 align="center">FL NeurIPS-W'22</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
+    <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="[https://openreview.net/forum?id=YZIVv_37y2z](https://ojs.aaai.org/index.php/AAAI/article/view/20555)">Federated Dynamic Sparse Training: Computing Less, Communicating Less, Yet Learning Better </a></td>
+		<td class=xl6519452 align="center">FedDST</td>
+        <td class=xl6519452 align="center">AAAI'22</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
 	
 </table>
