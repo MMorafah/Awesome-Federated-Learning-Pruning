@@ -84,5 +84,11 @@ If you did not find your publication on this list, please email me at mmorafah@u
         <td class=xl6519452 align="center">AAAI'22</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
+    <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2204.11536.pdf">FedDUAP: Federated Learning with Dynamic Update and Adaptive Pruning Using Shared Data on the Server</a></td>
+		<td class=xl6519452 align="center">FedDUAP</td>
+        <td class=xl6519452 align="center">IJCAI</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
 	
 </table>
