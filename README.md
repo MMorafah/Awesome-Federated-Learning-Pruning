@@ -90,5 +90,11 @@ If you did not find your publication on this list, please email me at mmorafah@u
         <td class=xl6519452 align="center">IJCAI</td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
+      <tr height=19 style='height:14.15pt'>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2208.02507">ZeroFL: Efficient On-Device Training for Federated Learning with Local Sparsity</a></td>
+		<td class=xl6519452 align="center">ZeroFL</td>
+        <td class=xl6519452 align="center">ICLR 2022</td>
+		<td class=xl6519452 align="center"></td>
+	</tr>
 	
 </table>
